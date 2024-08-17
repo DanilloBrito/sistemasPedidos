@@ -1,2 +1,2 @@
 # sistemasPedidos
- Projeto Cuso Java
+ Projeto Cusor Java
