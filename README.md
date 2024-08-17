@@ -1,2 +1,2 @@
 # sistemasPedidos
- Projeto Cusor Java
+ Projeto Curso Java
